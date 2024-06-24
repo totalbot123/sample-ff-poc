@@ -1,14 +1,14 @@
 [submodule "appconfig/prod/ff"]
 	path = appconfig/prod/ff
-	url = git@github.com:totalbot123/rollouts-poc.git
+	url = https://github.com/totalbot123/rollouts-poc.git
 [submodule "appconfig/stage-uat/ff"]
 	path = appconfig/stage-uat/ff
-	url = git@github.com:totalbot123/rollouts-poc.git
+	url = https://github.com/totalbot123/rollouts-poc.git
 [submodule "appconfig/stage-regression/ff"]
 	path = appconfig/stage-regression/ff
-	url = git@github.com:totalbot123/rollouts-poc.git
+	url = https://github.com/totalbot123/rollouts-poc.git
 	branch = stage-regression
 [submodule "appconfig/qa/ff"]
 	path = appconfig/qa/ff
-	url = git@github.com:totalbot123/rollouts-poc.git
+	url = https://github.com/totalbot123/rollouts-poc.git
 	branch = qa
